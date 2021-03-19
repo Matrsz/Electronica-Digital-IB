@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="datapath_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="datapath_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="193377fs"></ZoomEndTime>
+      <Cursor1Time time="212313fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="121"></NameColumnWidth>
+      <ValueColumnWidth column_width="55"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="18" />
+   <wvobject type="logic" fp_name="/datapath_tb/clk">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/datapath_tb/A">
+      <obj_property name="ElementShortName">A[3:0]</obj_property>
+      <obj_property name="ObjectShortName">A[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/datapath_tb/B">
+      <obj_property name="ElementShortName">B[3:0]</obj_property>
+      <obj_property name="ObjectShortName">B[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/datapath_tb/op_sig">
+      <obj_property name="ElementShortName">op_sig</obj_property>
+      <obj_property name="ObjectShortName">op_sig</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/datapath_tb/start">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/datapath_tb/done">
+      <obj_property name="ElementShortName">done</obj_property>
+      <obj_property name="ObjectShortName">done</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/datapath_tb/Q">
+      <obj_property name="ElementShortName">Q[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Q[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/datapath_tb/R">
+      <obj_property name="ElementShortName">R[3:0]</obj_property>
+      <obj_property name="ObjectShortName">R[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="other" fp_name="/datapath_tb/N">
+      <obj_property name="ElementShortName">N</obj_property>
+      <obj_property name="ObjectShortName">N</obj_property>
+   </wvobject>
+   <wvobject type="other" fp_name="/datapath_tb/clk_T">
+      <obj_property name="ElementShortName">clk_T</obj_property>
+      <obj_property name="ObjectShortName">clk_T</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/datapath_tb/uut/A_ext">
+      <obj_property name="ElementShortName">A_ext[6:0]</obj_property>
+      <obj_property name="ObjectShortName">A_ext[6:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/datapath_tb/uut/B_ext">
+      <obj_property name="ElementShortName">B_ext[6:0]</obj_property>
+      <obj_property name="ObjectShortName">B_ext[6:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/datapath_tb/uut/A_now">
+      <obj_property name="ElementShortName">A_now[6:0]</obj_property>
+      <obj_property name="ObjectShortName">A_now[6:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/datapath_tb/uut/B_now">
+      <obj_property name="ElementShortName">B_now[6:0]</obj_property>
+      <obj_property name="ObjectShortName">B_now[6:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/datapath_tb/Q">
+      <obj_property name="ElementShortName">Q[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Q[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/datapath_tb/uut/R_now">
+      <obj_property name="ElementShortName">R_now[6:0]</obj_property>
+      <obj_property name="ObjectShortName">R_now[6:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/datapath_tb/uut/A_nxt">
+      <obj_property name="ElementShortName">A_nxt[6:0]</obj_property>
+      <obj_property name="ObjectShortName">A_nxt[6:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/datapath_tb/uut/N_now">
+      <obj_property name="ElementShortName">N_now[2:0]</obj_property>
+      <obj_property name="ObjectShortName">N_now[2:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+</wave_config>

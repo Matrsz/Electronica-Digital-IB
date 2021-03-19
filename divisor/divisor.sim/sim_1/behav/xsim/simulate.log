@@ -1,0 +1,7 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Warning: #Err_div0
+Time: 755 ns  Iteration: 0  Process: /toplevel_tb/stimulus  File: /home/inox/Documents/Vivado/divisor/divisor.srcs/sim_1/new/toplevel_tb.vhd
+Failure: Fin de simulación
+Time: 765 ns  Iteration: 0  Process: /toplevel_tb/stimulus  File: /home/inox/Documents/Vivado/divisor/divisor.srcs/sim_1/new/toplevel_tb.vhd
+$finish called at time : 765 ns : File "/home/inox/Documents/Vivado/divisor/divisor.srcs/sim_1/new/toplevel_tb.vhd" Line 178

@@ -1,0 +1,17 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../ALU.srcs/sources_1/new/twocomplement.vhd" \
+"../../../../ALU.srcs/sources_1/new/tosigned.vhd" \
+"../../../../ALU.srcs/sources_1/new/extend.vhd" \
+"../../../../ALU.srcs/sources_1/new/demux4.vhd" \
+"../../../../ALU.srcs/sources_1/new/add.vhd" \
+"../../../../ALU.srcs/sources_1/new/subt.vhd" \
+"../../../../ALU.srcs/sources_1/new/mult.vhd" \
+"../../../../ALU.srcs/sources_1/new/eq.vhd" \
+"../../../../ALU.srcs/sources_1/new/mux4.vhd" \
+"../../../../ALU.srcs/sources_1/new/bmux4.vhd" \
+"../../../../ALU.srcs/sources_1/new/ALU.vhd" \
+"../../../../ALU.srcs/sim_1/new/ALU_tb.vhd" \
+
+# Do not sort compile order
+nosort

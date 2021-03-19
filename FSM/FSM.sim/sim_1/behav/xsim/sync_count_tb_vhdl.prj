@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../FSM.srcs/sources_1/imports/new/add.vhd" \
+"../../../../FSM.srcs/sources_1/imports/new/sync_count.vhd" \
+"../../../../FSM.srcs/sim_1/imports/new/sync_count_tb.vhd" \
+
+# Do not sort compile order
+nosort

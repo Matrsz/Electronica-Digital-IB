@@ -1,0 +1,5 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Failure: <Fin de simulación>
+Time: 70 ns  Iteration: 0  Process: /mult_tb/stimulus  File: /home/inox/Documents/Vivado/ALU/ALU.srcs/sim_1/new/mult_tb.vhd
+$finish called at time : 70 ns : File "/home/inox/Documents/Vivado/ALU/ALU.srcs/sim_1/new/mult_tb.vhd" Line 74

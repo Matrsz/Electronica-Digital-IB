@@ -1,0 +1,21 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /tools/Xilinx/Vivado/2019.2/bin/unwrapped/lnx64.o/xelab -wto 3d29cbf732554fb98523fb61cc9137b8 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot toplevel_tb_behav xil_defaultlib.toplevel_tb -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture forward of entity xil_defaultlib.shift_register [\shift_register(n=7)\]
+Compiling architecture reverse of entity xil_defaultlib.shift_register [\shift_register(n=3)_uniq_0\]
+Compiling architecture forward of entity xil_defaultlib.shift_register [\shift_register(n=3)_uniq_1\]
+Compiling architecture datapath_arch of entity xil_defaultlib.datapath [datapath_default]
+Compiling architecture controlpath_arch of entity xil_defaultlib.controlpath [controlpath_default]
+Compiling architecture top_level_arch of entity xil_defaultlib.top_level [top_level_default]
+Compiling architecture bench of entity xil_defaultlib.toplevel_tb
+Built simulation snapshot toplevel_tb_behav

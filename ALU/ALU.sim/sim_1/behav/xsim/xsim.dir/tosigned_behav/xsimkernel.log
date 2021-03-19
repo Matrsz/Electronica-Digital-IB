@@ -1,0 +1,7 @@
+Running: xsim.dir/tosigned_behav/xsimk -simmode gui -wdb tosigned_behav.wdb -simrunnum 0 -socket 41101
+Design successfully loaded
+Design Loading Memory Usage: 33204 KB (Peak: 33204 KB)
+Design Loading CPU Usage: 30 ms
+Simulation completed
+Simulation Memory Usage: 123140 KB (Peak: 172472 KB)
+Simulation CPU Usage: 40 ms

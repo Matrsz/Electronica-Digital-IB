@@ -1,0 +1,5 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Failure: Fin de simulación
+Time: 230 ns  Iteration: 0  Process: /sync_count_tb/stimulus  File: /home/inox/Documents/Vivado/sync_count/sync_count.srcs/sim_1/new/sync_count_tb.vhd
+$finish called at time : 230 ns : File "/home/inox/Documents/Vivado/sync_count/sync_count.srcs/sim_1/new/sync_count_tb.vhd" Line 82

@@ -1,0 +1,5 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Failure: Fin de simulación
+Time: 610 ns  Iteration: 0  Process: /FSM_alt_tb/stimulus  File: /home/inox/Documents/Vivado/FSM/FSM.srcs/sim_1/new/FSM_alt_tb.vhd
+$finish called at time : 610 ns : File "/home/inox/Documents/Vivado/FSM/FSM.srcs/sim_1/new/FSM_alt_tb.vhd" Line 141

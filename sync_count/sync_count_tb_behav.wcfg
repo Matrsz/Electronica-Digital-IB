@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="sync_count_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="sync_count_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="230001fs"></ZoomEndTime>
+      <Cursor1Time time="230000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="115"></NameColumnWidth>
+      <ValueColumnWidth column_width="55"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="9" />
+   <wvobject type="logic" fp_name="/sync_count_tb/clk">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+      <obj_property name="CustomSignalColor">#DCDCDC</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/sync_count_tb/pll_data">
+      <obj_property name="ElementShortName">pll_data[3:0]</obj_property>
+      <obj_property name="ObjectShortName">pll_data[3:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/sync_count_tb/syn_clr">
+      <obj_property name="ElementShortName">syn_clr</obj_property>
+      <obj_property name="ObjectShortName">syn_clr</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/sync_count_tb/load">
+      <obj_property name="ElementShortName">load</obj_property>
+      <obj_property name="ObjectShortName">load</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/sync_count_tb/en">
+      <obj_property name="ElementShortName">en</obj_property>
+      <obj_property name="ObjectShortName">en</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/sync_count_tb/up">
+      <obj_property name="ElementShortName">up</obj_property>
+      <obj_property name="ObjectShortName">up</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/sync_count_tb/Q">
+      <obj_property name="ElementShortName">Q[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Q[3:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/sync_count_tb/min_tick">
+      <obj_property name="ElementShortName">min_tick</obj_property>
+      <obj_property name="ObjectShortName">min_tick</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/sync_count_tb/max_tick">
+      <obj_property name="ElementShortName">max_tick</obj_property>
+      <obj_property name="ObjectShortName">max_tick</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+</wave_config>
